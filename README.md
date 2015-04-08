@@ -23,6 +23,11 @@ Personal use first.
 - [SVR](http://scikit-learn.org/dev/modules/svm.html#regression)
 
 
+## Huge list
+
+[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+
 ## Programming
 
 [Beautiful Soup Documentation](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) - robust html/xml parser
@@ -43,12 +48,23 @@ Personal use first.
 
 ## Bioinformatic tools
 
-[XHMM](http://atgu.mgh.harvard.edu/xhmm/tutorial.shtml) - a must-read
-   [paper](http://www.sciencedirect.com/science/article/pii/S000292971200417X)
+[chapmanb/bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) - 
+Validated, scalable, community developed variant calling and RNA-seq analysis 
+[web](https://bcbio-nextgen.readthedocs.org)
+
+
+[chapmanb/cloudbiolinux](https://github.com/chapmanb/cloudbiolinux) -
+configure virtual (or real) machines with tools for biological analyses [web](http://cloudbiolinux.org)
 
 [GATK](https://www.broadinstitute.org/gatk/download/) - Toolkit for Genome Analysis. In Java. General purpose.
 
+[XHMM](http://atgu.mgh.harvard.edu/xhmm/tutorial.shtml) - a must-read
+   [paper](http://www.sciencedirect.com/science/article/pii/S000292971200417X)
+
+
 [Tool Shed for Galaxy](https://wiki.galaxyproject.org/ToolShed/Repository)
+
+[Primer Design Algorithms, Databases & Resources](http://primers.gene-quantification.info/)
 
 
 ## Scientific issues
@@ -66,4 +82,5 @@ Personal use first.
 [jQuery source](http://jquery.com/download/) - <git://github.com/jquery/jquery.git>
 
 [mikelococo/tt-rss](https://github.com/mikelococo/tt-rss) - Tiny Tiny RSS
+
 
