@@ -46,7 +46,8 @@ Personal use first.
 
 [sqlalchemy](http://docs.sqlalchemy.org/en/rel_0_9/core/tutorial.html)
 
-## Bioinformatic tools
+
+## Next-generation sequencing analysis
 
 [chapmanb/bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) - 
 Validated, scalable, community developed variant calling and RNA-seq analysis 
@@ -57,6 +58,24 @@ Validated, scalable, community developed variant calling and RNA-seq analysis
 configure virtual (or real) machines with tools for biological analyses [web](http://cloudbiolinux.org)
 
 [GATK](https://www.broadinstitute.org/gatk/download/) - Toolkit for Genome Analysis. In Java. General purpose.
+
+<!-- [adamewing/bamsurgeon](https://github.com/adamewing/bamsurgeon) - tools for adding mutations to existing .bam files, used for testing mutation callers -->
+
+<!-- samtools/wgsim/tabix (https://github.com/samtools/samtools) -->
+<!-- bcftools (https://github.com/samtools/bcftools) -->
+<!-- pysam >= 0.8.1 (https://github.com/pysam-developers/pysam) -->
+<!-- bwa (http://bio-bwa.sourceforge.net/) -->
+<!-- velvet (http://www.ebi.ac.uk/~zerbino/velvet/) -->
+<!-- exonerate (http://www.ebi.ac.uk/~guy/exonerate/) -->
+<!-- picard tools >= 1.128 (https://github.com/broadinstitute/picard/releases/tag/1.128) -->
+
+
+## Computer infrastructure
+
+[miniconda](http://repo.continuum.io/miniconda/index.html)
+
+
+## Common bioinformatic tasks
 
 [XHMM](http://atgu.mgh.harvard.edu/xhmm/tutorial.shtml) - a must-read
    [paper](http://www.sciencedirect.com/science/article/pii/S000292971200417X)
