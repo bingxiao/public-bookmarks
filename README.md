@@ -1,4 +1,4 @@
-PUBLIC-BOOKMARKS
+Public Bookmarks
 ================
 Personal use first.
 
@@ -18,34 +18,22 @@ Personal use first.
 [What is Time Management](http://wiki.mbalib.com/wiki/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86) 
 
 
-## Scikit
-
-[scikit-learn](http://scikit-learn.org/dev/user_guide.html) with [examples](http://scikit-learn.org/dev/auto_examples/index.html) - Machine Learning in Python
-
-- [SVR](http://scikit-learn.org/dev/modules/svm.html#regression)
-
-
-## Machine learning list
-
-[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
-
-
 ## Python documents
 
 [dropbox/pyxl](https://github.com/dropbox/pyxl) - python inline HTML
 
 [gerold-penz/python-jsonrpc](https://github.com/gerold-penz/python-jsonrpc)
 
-    [Beautiful Soup ](http://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-    [Matplotlib](http://matplotlib.org/users/pyplot_tutorial.html)
-    [Pyramid](http://www.pylonsproject.org/projects/pyramid)
-    [Django](https://docs.djangoproject.com/en/1.7/intro/tutorial01/)
-    [bpython](http://docs.bpython-interpreter.org/)
-    [datetime](https://docs.python.org/2/library/datetime.html)
-    [pandas](http://pandas.pydata.org/pandas-docs/dev/indexing.html)
-    [sqlalchemy](http://docs.sqlalchemy.org/en/rel_0_9/core/tutorial.html)
-    [lxml](https://github.com/lxml/lxml)
-
+short names:   
+[Beautiful Soup ](http://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[Django](https://docs.djangoproject.com/en/1.7/intro/tutorial01/)
+[Matplotlib](http://matplotlib.org/users/pyplot_tutorial.html)
+[Pyramid](http://www.pylonsproject.org/projects/pyramid)
+[bpython](http://docs.bpython-interpreter.org/)
+[datetime](https://docs.python.org/2/library/datetime.html)
+[lxml](https://github.com/lxml/lxml)
+[pandas](http://pandas.pydata.org/pandas-docs/dev/indexing.html)
+[sqlalchemy](http://docs.sqlalchemy.org/en/rel_0_9/core/tutorial.html)
 
 ## Next-generation sequencing analysis
 
@@ -62,22 +50,43 @@ configure virtual (or real) machines with tools for biological analyses [web](ht
 
 <!-- [adamewing/bamsurgeon](https://github.com/adamewing/bamsurgeon) - tools for adding mutations to existing .bam files, used for testing mutation callers -->
 
-<!-- samtools/wgsim/tabix (https://github.com/samtools/samtools) -->
-<!-- bcftools (https://github.com/samtools/bcftools) -->
-<!-- pysam >= 0.8.1 (https://github.com/pysam-developers/pysam) -->
-<!-- bwa (http://bio-bwa.sourceforge.net/) -->
-<!-- velvet (http://www.ebi.ac.uk/~zerbino/velvet/) -->
-<!-- exonerate (http://www.ebi.ac.uk/~guy/exonerate/) -->
-<!-- picard tools >= 1.128 (https://github.com/broadinstitute/picard/releases/tag/1.128) -->
-<!-- [SIFT](http://sift.bii.a-star.edu.sg/) -->
-<!-- [sift old site](http://sift.jcvi.org/) -->
-<!-- [ANNOVAR](http://annovar.openbioinformatics.org/en/latest/user-guide/) -->
+short names:  
+[ANNOVAR](http://annovar.openbioinformatics.org/en/latest/user-guide/)
+[SIFT](http://sift.bii.a-star.edu.sg/)
+[bcftools](https://github.com/samtools/bcftools)
+[bwa](http://bio-bwa.sourceforge.net/)
+[exonerate](http://www.ebi.ac.uk/~guy/exonerate/)
+[picard](https://github.com/broadinstitute/picard/releases/tag/1.128)
+[pysam](https://github.com/pysam-developers/pysam)
+[samtools](https://github.com/samtools/samtools)
+[velvet](http://www.ebi.ac.uk/~zerbino/velvet/)
+<!-- [sift/old site](http://sift.jcvi.org/) -->
+<!-- /wgsim/tabix  -->
+
+
+## Machine learning list
+
+[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+[scikit-learn](http://scikit-learn.org/dev/user_guide.html) with [examples](http://scikit-learn.org/dev/auto_examples/index.html) - Machine Learning in Python
+
+- [SVR](http://scikit-learn.org/dev/modules/svm.html#regression)
+
 
 ## Computer infrastructure
 
 [miniconda](http://repo.continuum.io/miniconda/index.html)
 
 [hotdogee/django-blast](https://github.com/hotdogee/django-blast) - NCBI-BLAST web service with python backend and HTML5 frontend
+
+
+## Network services
+
+[jQuery source](http://jquery.com/download/) - <git://github.com/jquery/jquery.git>
+
+[mikelococo/tt-rss](https://github.com/mikelococo/tt-rss) - Tiny Tiny RSS
+
+
 
 ## Common bioinformatic tasks
 
@@ -100,12 +109,6 @@ configure virtual (or real) machines with tools for biological analyses [web](ht
 
 [R&Python in data science](http://xccds1977.blogspot.com/)
 
-
-## Network services
-
-[jQuery source](http://jquery.com/download/) - <git://github.com/jquery/jquery.git>
-
-[mikelococo/tt-rss](https://github.com/mikelococo/tt-rss) - Tiny Tiny RSS
 
 
 <!-- ## Perspectives -->
