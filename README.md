@@ -4,13 +4,14 @@ Personal use first.
 
 
 ## Temp reads:
+
 [Calling SNPs/INDELs with SAMtools/BCFtools](http://samtools.sourceforge.net/mpileup.shtml)
 
 [5 Things to Know About SAMtools Mpileup](http://massgenomics.org/2012/03/5-things-to-know-about-samtools-mpileup.html)
 
 [German tank problem](http://en.wikipedia.org/wiki/German_tank_problem)
 
-[dropbox/pyxl](https://github.com/dropbox/pyxl) - python inline HTML
+
 
 ## Time management
 
@@ -24,28 +25,26 @@ Personal use first.
 - [SVR](http://scikit-learn.org/dev/modules/svm.html#regression)
 
 
-## Huge list
+## Machine learning list
 
 [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 
-## Programming
+## Python documents
 
-[Beautiful Soup Documentation](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) - robust html/xml parser
+[dropbox/pyxl](https://github.com/dropbox/pyxl) - python inline HTML
 
-[Matplotlib](http://matplotlib.org/users/pyplot_tutorial.html)
+[gerold-penz/python-jsonrpc](https://github.com/gerold-penz/python-jsonrpc)
 
-[Pyramid](http://www.pylonsproject.org/projects/pyramid) - easy web framework
-
-[Python - datetime](https://docs.python.org/2/library/datetime.html)
-
-[Writing your first Django app](https://docs.djangoproject.com/en/1.7/intro/tutorial01/) - django tutorial from django project
-
-[bpython](http://docs.bpython-interpreter.org/)
-
-[pandas](http://pandas.pydata.org/pandas-docs/dev/indexing.html)
-
-[sqlalchemy](http://docs.sqlalchemy.org/en/rel_0_9/core/tutorial.html)
+    [Beautiful Soup ](http://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+    [Matplotlib](http://matplotlib.org/users/pyplot_tutorial.html)
+    [Pyramid](http://www.pylonsproject.org/projects/pyramid)
+    [Django](https://docs.djangoproject.com/en/1.7/intro/tutorial01/)
+    [bpython](http://docs.bpython-interpreter.org/)
+    [datetime](https://docs.python.org/2/library/datetime.html)
+    [pandas](http://pandas.pydata.org/pandas-docs/dev/indexing.html)
+    [sqlalchemy](http://docs.sqlalchemy.org/en/rel_0_9/core/tutorial.html)
+    [lxml](https://github.com/lxml/lxml)
 
 
 ## Next-generation sequencing analysis
