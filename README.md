@@ -18,7 +18,7 @@ Personal use first.
 
 ## Scikit
 
-[scikit-learn](http://scikit-learn.org/dev/user_guide.html) [examples](http://scikit-learn.org/dev/auto_examples/index.html) - Machine Learning in Python
+[scikit-learn](http://scikit-learn.org/dev/user_guide.html) with [examples](http://scikit-learn.org/dev/auto_examples/index.html) - Machine Learning in Python
 
 - [SVR](http://scikit-learn.org/dev/modules/svm.html#regression)
 
