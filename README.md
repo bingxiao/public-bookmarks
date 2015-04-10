@@ -10,6 +10,7 @@ Personal use first.
 
 [German tank problem](http://en.wikipedia.org/wiki/German_tank_problem)
 
+[dropbox/pyxl](https://github.com/dropbox/pyxl) - python inline HTML
 
 ## Time management
 
@@ -53,6 +54,7 @@ Personal use first.
 Validated, scalable, community developed variant calling and RNA-seq analysis 
 [web](https://bcbio-nextgen.readthedocs.org)
 
+[Variant Tools](http://varianttools.sourceforge.net/) - project based, a whole set of tools for genetic variants
 
 [chapmanb/cloudbiolinux](https://github.com/chapmanb/cloudbiolinux) -
 configure virtual (or real) machines with tools for biological analyses [web](http://cloudbiolinux.org)
@@ -68,12 +70,15 @@ configure virtual (or real) machines with tools for biological analyses [web](ht
 <!-- velvet (http://www.ebi.ac.uk/~zerbino/velvet/) -->
 <!-- exonerate (http://www.ebi.ac.uk/~guy/exonerate/) -->
 <!-- picard tools >= 1.128 (https://github.com/broadinstitute/picard/releases/tag/1.128) -->
-
+<!-- [SIFT](http://sift.bii.a-star.edu.sg/) -->
+<!-- [sift old site](http://sift.jcvi.org/) -->
+<!-- [ANNOVAR](http://annovar.openbioinformatics.org/en/latest/user-guide/) -->
 
 ## Computer infrastructure
 
 [miniconda](http://repo.continuum.io/miniconda/index.html)
 
+[hotdogee/django-blast](https://github.com/hotdogee/django-blast) - NCBI-BLAST web service with python backend and HTML5 frontend
 
 ## Common bioinformatic tasks
 
@@ -85,6 +90,7 @@ configure virtual (or real) machines with tools for biological analyses [web](ht
 
 [Primer Design Algorithms, Databases & Resources](http://primers.gene-quantification.info/)
 
+<!-- [hg19 databases](http://hgdownload.cse.ucsc.edu/goldenPath/hg19/database/) -->
 
 ## Scientific issues
 
@@ -103,3 +109,8 @@ configure virtual (or real) machines with tools for biological analyses [web](ht
 [mikelococo/tt-rss](https://github.com/mikelococo/tt-rss) - Tiny Tiny RSS
 
 
+<!-- ## Perspectives -->
+
+<!-- [Question: What Is The Best Pipeline For Human Whole Exome Sequencing?](https://www.biostars.org/p/1268/) -->
+<!-- [Tutorial: Tutorial (How to analyze) on Whole Exome sequencing. Common Errors. Best Practices.](https://www.biostars.org/p/118929/) -->
+<!-- [About the GATK Best Practices](https://www.broadinstitute.org/gatk/guide/best-practices) -->
