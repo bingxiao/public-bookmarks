@@ -123,10 +123,15 @@ short names:
 
 [Kaggle](https://www.kaggle.com/competitions)
 
-[Synapse](https://www.synapse.org) - biological
+[DREAM Challenges](http://dreamchallenges.org/) - [Synapse](https://www.synapse.org) - biological
 
 
-<!-- [Meetup/Shanghai_data_science](http://www.meetup.com/Shanghai-Data-Science/) -->
+## Local events
+
+`upcoming`: [cos.name Lecture ](http://china-r.org/lectures/)
+
+[Meetup/Shanghai_data_science](http://www.meetup.com/Shanghai-Data-Science/)
+
 
 <!-- ## Perspectives -->
 
