@@ -86,6 +86,7 @@ short names:
 
 [hotdogee/django-blast](https://github.com/hotdogee/django-blast) - NCBI-BLAST web service with python backend and HTML5 frontend
 
+[git](http://schacon.github.io/git/user-manual.html) |
 
 ## Network services
 
