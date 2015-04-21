@@ -18,6 +18,12 @@ Personal use first.
 [What is Time Management](http://wiki.mbalib.com/wiki/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86) 
 
 
+## Manual pages
+
+[Sqlite3](https://www.sqlite.org/cli.html) | [python-sqlite](https://docs.python.org/2/library/sqlite3.html) |
+
+
+
 ## Python documents
 
 [dropbox/pyxl](https://github.com/dropbox/pyxl) - python inline HTML
@@ -25,7 +31,7 @@ Personal use first.
 [gerold-penz/python-jsonrpc](https://github.com/gerold-penz/python-jsonrpc)
 
 short names:   
-[Beautiful Soup ](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) | 
+[BeautifulSoup ](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) | 
 [Django](https://docs.djangoproject.com/en/1.7/intro/tutorial01/) | 
 [Matplotlib](http://matplotlib.org/users/pyplot_tutorial.html) | 
 [Pyramid](http://www.pylonsproject.org/projects/pyramid) | 
@@ -34,6 +40,8 @@ short names:
 [lxml](https://github.com/lxml/lxml) | 
 [pandas](http://pandas.pydata.org/pandas-docs/dev/indexing.html) | 
 [sqlalchemy](http://docs.sqlalchemy.org/en/rel_0_9/core/tutorial.html) | 
+[pycurl](http://pycurl.sourceforge.net/doc/quickstart.html)
+
 
 ## Next-generation sequencing analysis
 
@@ -62,6 +70,12 @@ short names:
 [velvet](http://www.ebi.ac.uk/~zerbino/velvet/) |
 <!-- [sift/old site](http://sift.jcvi.org/) -->
 <!-- /wgsim/tabix  -->
+
+
+## Metagenomic
+
+[mauve](http://darlinglab.org/mauve/user-guide/introduction.html) |
+[symap](http://www.agcol.arizona.edu/software/symap/)
 
 
 ## List of lists
@@ -122,10 +136,11 @@ short names:
 
 ## Challenges
 
-[Kaggle](https://www.kaggle.com/competitions)
+[Kaggle competitions](https://www.kaggle.com/competitions) - predictive modeling competitions
 
-[DREAM Challenges](http://dreamchallenges.org/) - [Synapse](https://www.synapse.org) - biological
+[DREAM challenges](http://dreamchallenges.org/) - [synapse](https://www.synapse.org) - biological
 
+[InnoCentive challenges](https://www.innocentive.com/ar/challenge/browse)
 
 ## Local events
 
