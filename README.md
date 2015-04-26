@@ -30,6 +30,8 @@ Personal use first.
 
 [gerold-penz/python-jsonrpc](https://github.com/gerold-penz/python-jsonrpc)
 
+[luigi](https://github.com/spotify/luigi) - build complex pipelines of batch jobs, hadoop possible
+
 short names:   
 [BeautifulSoup ](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) | 
 [Django](https://docs.djangoproject.com/en/1.7/intro/tutorial01/) | 
