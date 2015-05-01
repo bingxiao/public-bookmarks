@@ -21,7 +21,7 @@ Personal use first.
 ## Manual pages
 
 [Sqlite3](https://www.sqlite.org/cli.html) | [python-sqlite](https://docs.python.org/2/library/sqlite3.html) |
-
+[git](http://schacon.github.io/git/user-manual.html)
 
 
 ## Python documents
@@ -31,6 +31,9 @@ Personal use first.
 [gerold-penz/python-jsonrpc](https://github.com/gerold-penz/python-jsonrpc)
 
 [luigi](https://github.com/spotify/luigi) - build complex pipelines of batch jobs, hadoop possible
+
+- [Slideshare /Workflow Engines for Hadoop](http://www.slideshare.net/jcrobak/data-engineermeetup-201309)
+- [Slideshare /Luigi Presentation at OSCON 2013](http://www.slideshare.net/erikbern/luigi-presentation-at-oscon-2013)
 
 short names:   
 [BeautifulSoup ](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) | 
@@ -134,6 +137,8 @@ short names:
 ## Blogs
 
 [R&Python in data science](http://xccds1977.blogspot.com/)
+
+[Writing an Hadoop MapReduce Program in Python](http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/)
 
 
 ## Challenges
