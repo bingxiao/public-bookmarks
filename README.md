@@ -42,7 +42,8 @@ short names:
 [lxml](https://github.com/lxml/lxml) | 
 [pandas](http://pandas.pydata.org/pandas-docs/dev/indexing.html) | 
 [sqlalchemy](http://docs.sqlalchemy.org/en/rel_0_9/core/tutorial.html) | 
-[pycurl](http://pycurl.sourceforge.net/doc/quickstart.html)
+[pycurl](http://pycurl.sourceforge.net/doc/quickstart.html) |
+[PyYAML](http://pyyaml.org/wiki/PyYAMLDocumentation) |
 
 
 ## Next-generation sequencing analysis
@@ -134,6 +135,8 @@ short names:
 ## Blogs
 
 [R&Python in data science](http://xccds1977.blogspot.com/)
+
+[sebastianraschka.com](http://sebastianraschka.com/) - data science related, topics seem good.
 
 
 ## Challenges
