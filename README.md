@@ -46,7 +46,8 @@ short names:
 [pandas](http://pandas.pydata.org/pandas-docs/dev/indexing.html) | 
 [sqlalchemy](http://docs.sqlalchemy.org/en/rel_0_9/core/tutorial.html) | 
 [pycurl](http://pycurl.sourceforge.net/doc/quickstart.html) |
-[PyYAML](http://pyyaml.org/wiki/PyYAMLDocumentation) |
+[PyYAML](http://pyyaml.org/wiki/PyYAMLDocumentation#DumpingYAML) |
+[subprocess](https://docs.python.org/2/library/subprocess.html#frequently-used-arguments) |
 
 
 ## Next-generation sequencing analysis
